@@ -1,0 +1,69 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {1}{Our project}{3}{Our project}{0}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{4}{What is formalisation}}\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\slideentry {1}{1}{1}{4/9}{What is formalisation}{0}}
+\headcommand {\beamer@framepages {4}{9}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{10}{What is Lean 4}}\headcommand {\beamer@subsectionpages {4}{9}}
+\headcommand {\slideentry {1}{2}{1}{10/13}{What is Lean 4}{0}}
+\headcommand {\beamer@framepages {10}{13}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{14}{Project outline}}\headcommand {\beamer@subsectionpages {10}{13}}
+\headcommand {\slideentry {1}{3}{1}{14/16}{Project outline}{0}}
+\headcommand {\beamer@framepages {14}{16}}
+\headcommand {\sectionentry {2}{Part 1: frieze patterns}{17}{Part 1: frieze patterns}{0}}
+\headcommand {\beamer@sectionpages {3}{16}}
+\headcommand {\beamer@subsectionpages {14}{16}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{17}{Definitions}}\headcommand {\beamer@subsectionpages {17}{16}}
+\headcommand {\slideentry {2}{1}{1}{17/21}{Definitions}{0}}
+\headcommand {\beamer@framepages {17}{21}}
+\headcommand {\slideentry {2}{1}{2}{22/22}{Definitions}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{23}{Translation-invariance}}\headcommand {\beamer@subsectionpages {17}{22}}
+\headcommand {\slideentry {2}{2}{1}{23/24}{Translation-invariance}{0}}
+\headcommand {\beamer@framepages {23}{24}}
+\headcommand {\slideentry {2}{2}{2}{25/25}{Translation-invariance}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\sectionentry {3}{Part 2: Pandean flutes}{26}{Part 2: Pandean flutes}{0}}
+\headcommand {\beamer@sectionpages {17}{25}}
+\headcommand {\beamer@subsectionpages {23}{25}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{26}{Definitions}}\headcommand {\beamer@subsectionpages {26}{25}}
+\headcommand {\slideentry {3}{1}{1}{26/30}{Definitions}{0}}
+\headcommand {\beamer@framepages {26}{30}}
+\headcommand {\slideentry {3}{1}{2}{31/31}{Definitions}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{32}{Upper bounds on flutes}}\headcommand {\beamer@subsectionpages {26}{31}}
+\headcommand {\slideentry {3}{2}{1}{32/36}{Upper bounds on flutes}{0}}
+\headcommand {\beamer@framepages {32}{36}}
+\headcommand {\slideentry {3}{2}{2}{37/37}{Upper bounds on flutes}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{38}{Fibonacci flutes}}\headcommand {\beamer@subsectionpages {32}{37}}
+\headcommand {\slideentry {3}{3}{1}{38/42}{Fibonacci flutes}{0}}
+\headcommand {\beamer@framepages {38}{42}}
+\headcommand {\slideentry {3}{3}{2}{43/43}{Fibonacci flutes}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\sectionentry {4}{Part 3: Proving the main result}{44}{Part 3: Proving the main result}{0}}
+\headcommand {\beamer@sectionpages {26}{43}}
+\headcommand {\beamer@subsectionpages {38}{43}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{44}{Flutes and friezes}}\headcommand {\beamer@subsectionpages {44}{43}}
+\headcommand {\slideentry {4}{1}{1}{44/46}{Flutes and friezes}{0}}
+\headcommand {\beamer@framepages {44}{46}}
+\headcommand {\slideentry {4}{1}{2}{47/49}{Flutes and friezes}{0}}
+\headcommand {\beamer@framepages {47}{49}}
+\headcommand {\slideentry {4}{1}{3}{50/50}{Flutes and friezes}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{51}{Main theorem}}\headcommand {\beamer@subsectionpages {44}{50}}
+\headcommand {\slideentry {4}{2}{1}{51/53}{Main theorem}{0}}
+\headcommand {\beamer@framepages {51}{53}}
+\headcommand {\slideentry {4}{2}{2}{54/54}{Main theorem}{0}}
+\headcommand {\beamer@framepages {54}{54}}
+\headcommand {\beamer@partpages {1}{54}}
+\headcommand {\beamer@subsectionpages {51}{54}}
+\headcommand {\beamer@sectionpages {44}{54}}
+\headcommand {\beamer@documentpages {54}}
+\headcommand {\def \inserttotalframenumber {21}}

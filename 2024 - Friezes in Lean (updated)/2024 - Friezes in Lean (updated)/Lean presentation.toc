@@ -1,0 +1,15 @@
+\select@language {english}
+\beamer@sectionintoc {1}{Our project}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{What is formalisation}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{What is Lean 4}{10}{0}{1}
+\beamer@subsectionintoc {1}{3}{Project outline}{14}{0}{1}
+\beamer@sectionintoc {2}{Part 1: frieze patterns}{17}{0}{2}
+\beamer@subsectionintoc {2}{1}{Definitions}{17}{0}{2}
+\beamer@subsectionintoc {2}{2}{Translation-invariance}{23}{0}{2}
+\beamer@sectionintoc {3}{Part 2: Pandean flutes}{26}{0}{3}
+\beamer@subsectionintoc {3}{1}{Definitions}{26}{0}{3}
+\beamer@subsectionintoc {3}{2}{Upper bounds on flutes}{32}{0}{3}
+\beamer@subsectionintoc {3}{3}{Fibonacci flutes}{38}{0}{3}
+\beamer@sectionintoc {4}{Part 3: Proving the main result}{44}{0}{4}
+\beamer@subsectionintoc {4}{1}{Flutes and friezes}{44}{0}{4}
+\beamer@subsectionintoc {4}{2}{Main theorem}{51}{0}{4}
